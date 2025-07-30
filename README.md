@@ -1,4 +1,4 @@
-# 🎙️ Desktop Voice Assistant
+##  Desktop Voice Assistant
 
 A Python-based voice-controlled personal assistant that helps you perform everyday desktop tasks using just your voice. From opening apps to searching the web and getting the latest weather, this assistant is your hands-free productivity companion.
 
